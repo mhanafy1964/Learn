@@ -1,2 +1,2 @@
-# Learn
-Learning Repository 
+# Learning
+trying to learn web development.
